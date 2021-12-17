@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="calculator_appBar">Calculator</string>
+    <string name="clear">CLEAR</string>
+    <string name="divideOp">/</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="multiplyOp">*</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="subtractOp">-</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="addOp">+</string>
+    <string name="decimalPoint">.</string>
+    <string name="_0">0</string>
+    <string name="del">DEL</string>
+    <string name="equals">=</string>
+</resources>
